@@ -1,0 +1,1 @@
+Programm simulate store where we have 5 stores, 3 buyers (3 threads), and 1 loader (1 thread). With 1 store only 1 can work (loader or buyer). Every buyer have 10000 money, and every store have 1000 items + loader adding 500. Every thread have cooldowm (3 sec for buyers and 2 sec for loader). Programm finishing when buyers have not money (money<=0).
